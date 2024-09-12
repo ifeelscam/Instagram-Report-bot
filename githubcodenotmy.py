@@ -131,7 +131,7 @@ def analyze(message):
         # Include inline buttons
         markup = telebot.types.InlineKeyboardMarkup()
         markup.add(telebot.types.InlineKeyboardButton("Visit Profile", url=f"https://instagram.com/{profile_info['username']}"))
-        markup.add(telebot.types.InlineKeyboardButton("Another Analysis", callback_data='another_analysis'))
+        markup.add(telebot.types.InlineKeyboardButton("Devloper", callback_data='t.me/ifeelscam'))
 
         bot.send_message(message.chat.id, result_text, reply_markup=markup, parse_mode='Markdown')
     else:

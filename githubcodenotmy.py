@@ -96,9 +96,9 @@ def get_public_instagram_info(username):
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.reply_to(message, "Welcome! Use /analyze <username> to analyze an Instagram profile.")
+    bot.reply_to(message, "Welcome! Use /getmeth <username> to analyze an Instagram profile.")
 
-@bot.message_handler(commands=['analyze'])
+@bot.message_handler(commands=['getmeth'])
 def analyze(message):
     username = message.text.split()[1:]  # Get username from command
     if not username:
@@ -126,7 +126,7 @@ def analyze(message):
         for report in reports_to_file.values():
             result_text += f"• {report}\n"
 
-        result_text += "\n*Note: This analysis is based on available data and may not be fully accurate.*\n"
+        result_text += "\n*Note: This Method is based on available data and may not be fully accurate.*\n"
 
         # Include inline buttons
         markup = telebot.types.InlineKeyboardMarkup()

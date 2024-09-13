@@ -13,6 +13,13 @@
   * 0 - 1M followers.
 * User Friendly UI.
 
+### Variables
+
+* `API_TOKEN` Your bot token from @BotFather
+* `ADMIN_ID` Bot Admin I'd Get from @OutlawXbot
+* `FORCE_JOIN_CHANNEL` Your Fsub channel Username Without @
+* `DATABASE_URL` Your mongo db public url Port `0.0.0.0.0`
+
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 
 ```

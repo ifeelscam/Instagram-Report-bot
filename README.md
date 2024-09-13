@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
 
-<h1 align="center">INSTAGRAM M REPORT BOT</h1>
+<h1 align="center">INSTAGRAM REPORT BOT</h1>
 
 
 <p align="center">REPORT ANY INSTAGRAM ACCOUNT.</p>

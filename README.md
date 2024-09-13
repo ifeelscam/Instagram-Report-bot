@@ -16,7 +16,7 @@
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 
 ```
-/start - start the bot or get posts
+/start - Check I'm Alive or Dead 
 /help - Help Guide for new Users 
 /getmeth - Generate Method for your Target 
 /users - view bot statistics

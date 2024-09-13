@@ -26,9 +26,9 @@
 
 # ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
 
-</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴏᴜᴛʟᴀᴡ ʙᴏᴛs](https://t.me/Outlawbots)</b>
-
 </b>⋗  ᴄʀᴇᴅɪᴛ - <b>[ᴄᴏᴅx ʙᴏᴛs](https://t.me/MCodX)</b>
+
+</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴏᴜᴛʟᴀᴡ ʙᴏᴛs](https://t.me/Outlawbots)</b>
 ---
 
 **Legal Notice**

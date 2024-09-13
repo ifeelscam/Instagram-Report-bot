@@ -13,6 +13,22 @@
   * 0 - 1M followers.
 * User Friendly UI.
 
+## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
+
+```
+/start - start the bot or get posts
+/help - Help Guide for new Users 
+/getmeth - Generate Method for your Target 
+/users - view bot statistics
+/broadcast - broadcast any messages to bot users
+/restart - Reset your bot uptime
+```
+
+# ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
+
+</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴏᴜᴛʟᴀᴡ ʙᴏᴛs](https://t.me/Outlawbots)</b>
+
+</b>⋗  ᴄʀᴇᴅɪᴛ - <b>[ᴄᴏᴅx ʙᴏᴛs](https://t.me/MCodX)</b>
 ---
 
 **Legal Notice**

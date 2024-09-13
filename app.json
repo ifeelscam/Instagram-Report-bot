@@ -1,0 +1,32 @@
+{
+  "name": "Instagram Report Bot",
+  "description": "A simple Telegram bot running on Heroku",
+  "repository": "https://github.com/ifeelscam/Instagram-Repot-Bot",
+  "logo": "https://github.com/ifeelscam/Instagram-Report-bot/logo.png",
+  "keywords": ["python", "telegram", "bot", "flask"],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {
+    "API_TOKEN": {
+      "description": "Telegram Bot API token",
+      "value": "your-default-api-token-if-any"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql:hobby-dev"
+    }
+  ],
+  "scripts": {
+    "postdeploy": "echo Your bot is deployed!"
+  }
+}

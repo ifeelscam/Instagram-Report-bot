@@ -16,7 +16,7 @@
 ### Variables
 
 * `API_TOKEN` Your bot token from @BotFather
-* `ADMIN_ID` Bot Admin I'd Get from @OutlawXbot
+* `ADMIN_ID` Bot Admin I'd Get from <a href='t.me/Outlawxbot'>@OutlawXbot</a>
 * `FORCE_JOIN_CHANNEL` Your Fsub channel Username Without @
 * `DATABASE_URL` Your mongo db public url Port `0.0.0.0.0`
 

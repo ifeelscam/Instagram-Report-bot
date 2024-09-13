@@ -1,5 +1,5 @@
 
-# Instagram Reports Bot
+# Instagram Report Bot
 
 
 

@@ -188,7 +188,7 @@ def analyze(message):
 
         markup = telebot.types.InlineKeyboardMarkup()
         markup.add(telebot.types.InlineKeyboardButton("Visit Target Profile", url=f"https://instagram.com/{profile_info['username']}"))
-        markup.add(telebot.types.InlineKeyboardButton("Developer", url='t.me/ifeelscam'))
+        markup.add(telebot.types.InlineKeyboardButton("Developer", url='t.me/focro'))
 
         bot.send_message(message.chat.id, result_text, reply_markup=markup, parse_mode='MarkdownV2')
     else:

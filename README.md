@@ -3,9 +3,12 @@
 <h1 align="center">INSTAGRAM REPORT BOT</h1>
 
 
+
 <p align="center">REPORT ANY INSTAGRAM ACCOUNT.</p>
 
-
+> [!CAUTION]
+> This tool is created for **EDUCATIONAL PURPOSES ONLY**. The creator is not responsible for any damage or misuse of this tool
+> 
 ## Features
 
 * 🔒 Disable Instagram Account.
@@ -16,7 +19,7 @@
 ### Variables
 
 * `API_TOKEN` Your bot token from @BotFather
-* `ADMIN_ID` Bot Admin I'd Get from <a href='t.me/Outlawxbot'>@OutlawXbot</a>
+* `ADMIN_ID` Bot Admin I'd Get from <a href='t.me/PythonBotz'>@Pythonbotz</a>
 * `FORCE_JOIN_CHANNEL` Your Fsub channel Username Without @
 * `DATABASE_URL` Your mongo db public url Port `0.0.0.0.0`
 

@@ -90,10 +90,5 @@ This is illegal if you use it without the consent of the creators — in this ca
 ```
 
 ---
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
-<img align="middle" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
-    
-
 
 

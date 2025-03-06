@@ -7,7 +7,7 @@
 <p align="center">REPORT ANY INSTAGRAM ACCOUNT.</p>
 
 > [!CAUTION]
-> This tool is created for **EDUCATIONAL PURPOSES ONLY**. The creator is not responsible for any damage or misuse of this tool
+> ```This tool is created for EDUCATIONAL PURPOSES ONLY. The creator is not responsible for any damage or misuse of this tool.```
 > 
 ## Features
 
@@ -74,7 +74,7 @@ python3 bot.py
 
 # ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
 
-</b>⋗  ᴄʀᴇᴅɪᴛ - <b>[ᴄᴏᴅx ʙᴏᴛs](https://t.me/MCodX)</b>
+</b>⋗  ᴄʀᴇᴅɪᴛ - <b>[Ben 10](https://t.me/metaui)</b>
 
 </b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Python Botz](https://t.me/Pythonbotz)</b>
 

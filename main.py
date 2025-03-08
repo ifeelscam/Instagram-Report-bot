@@ -61,7 +61,7 @@ report_keywords = {
     "ILLEGAL": ["drugs", "cocaine", "plants", "trees", "medicines"],
     "PRETENDING": ["verified", "tick"],
     "NUDITY": ["nude", "sex", "send nudes"],
-    "SPAM": ["phone number", "email"]
+    "SPAM": ["phone number", "email", "contact"]
 }
 
 def check_keywords(text, keywords):

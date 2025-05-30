@@ -80,6 +80,7 @@ python3 bot.py
 
 </b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Python Botz](https://t.me/Pythonbotz)</b>
 
+</b> PAID BANS - <b>[AHMAD](https://t.me/based_ahmad)</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 

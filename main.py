@@ -30,7 +30,7 @@ def keep_alive():
     t = Thread(target=run_flask_app)
     t.start()
 
-# Start the Flask app in a thread
+# Start the Flask app in a thread 
 keep_alive()
 
 # Initialize the Telegram bot

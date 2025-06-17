@@ -24,6 +24,15 @@
 * `ADMIN_ID` Bot Admin I'd Get from <a href='t.me/PythonBotz'>@Pythonbotz</a>
 * `FORCE_JOIN_CHANNEL` Your Fsub channel Username Without @
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
+
+</b>⋗  ᴄʀᴇᴅɪᴛ - <b>[Ben 10](https://t.me/metaui)</b>
+
+</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Python Botz](https://t.me/Pythonbotz)</b>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
 <summary><h3>
@@ -71,17 +80,6 @@ python3 bot.py
 /broadcast - broadcast any messages to bot users
 /restart - Reset your bot uptime
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
-
-</b>⋗  ᴄʀᴇᴅɪᴛ - <b>[Ben 10](https://t.me/metaui)</b>
-
-</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Python Botz](https://t.me/Pythonbotz)</b>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
----
 
 **Legal Notice**
 

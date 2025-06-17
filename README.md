@@ -6,6 +6,10 @@
 
 
 
+![Stars](https://img.shields.io/github/stars/ifeelscam/Instagram-Report-bot?style=social)
+![Forks](https://img.shields.io/github/forks/ifeelscam/Instagram-Report-bot?style=social)
+
+
 <p align="center">REPORT ANY INSTAGRAM ACCOUNT.</p>
 
 > [!CAUTION]

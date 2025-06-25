@@ -1,0 +1,28 @@
+name: Auto Refresh Repo
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # every 6 hours
+  workflow_dispatch:       # manual trigger
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "Uncle@flash.co"
+          git config --global user.name "otterai"
+
+      - name: Create empty commit
+        run: |
+          git commit --allow-empty -m "Auto refresh commit"
+
+      - name: Push changes with PAT
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/otterai/AITrading.git
+          git push origin main
+          

@@ -15,7 +15,7 @@ jobs:
       - name: Configure Git
         run: |
           git config --global user.email "Uncle@flash.co"
-          git config --global user.name "otterai"
+          git config --global user.name "ifeelscam"
 
       - name: Create empty commit
         run: |
@@ -23,6 +23,6 @@ jobs:
 
       - name: Push changes with PAT
         run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/otterai/AITrading.git
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/ifeelscam/Instagram-Report-bot.git
           git push origin main
           

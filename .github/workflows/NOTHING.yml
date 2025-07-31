@@ -18,7 +18,7 @@ jobs:
 
       - name: Create empty commit
         run: |
-          git commit --allow-empty -m "Auto refresh commit"
+          git commit --allow-empty -m "Instagram Tool 🔥"
 
       - name: Push changes with PAT
         run: |

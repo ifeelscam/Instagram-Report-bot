@@ -32,7 +32,7 @@
 
 # ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
  
-</b>⋗  ᴄʀᴇᴅɪᴛ - <b>[Trinity](https://t.me/SugerBaddie)</b> & <b>[Ben 10](https://t.me/metaui)</b>
+</b>⋗  ᴄʀᴇᴅɪᴛ -  <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="15px">   <b>[Trinity](https://t.me/SugerBaddie)</b> & <b>[Ben 10](https://t.me/metaui)</b>
 
 </b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Python Botz](https://t.me/Pythonbotz)</b>
 

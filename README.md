@@ -31,8 +31,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
-
-</b>⋗  ᴄʀᴇᴅɪᴛ - <b>[Ben 10](https://t.me/metaui)</b>
+ 
+</b>⋗  ᴄʀᴇᴅɪᴛ - <b>[Trinity](https://t.me/SugerBaddie)</b> & <b>[Ben 10](https://t.me/metaui)</b>
 
 </b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Python Botz](https://t.me/Pythonbotz)</b>
 

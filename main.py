@@ -181,7 +181,7 @@ def analyze(message):
         result_text += "Suggested Reports for Your Target:\n"
         for report in reports_to_file.values():
             result_text += f"• {report}\n"
-        result_text += "\n*Note: This method is based on available data and may not be fully accurate.*\n"
+        result_text += "\n*Note: This method is based on available data and may not be fully accurate.*\n\n for supporting my devloper please donate some Money @SendPayments"
 
         # Escape special characters for MarkdownV2
         result_text = escape_markdown_v2(result_text)
@@ -278,4 +278,5 @@ if __name__ == "__main__":
     # Start the bot polling in a separate thread
     t = Thread(target=bot.polling)
     t.start()
+
 

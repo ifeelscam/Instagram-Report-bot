@@ -148,8 +148,8 @@ def start(message):
     add_user(user_id)  # Add user to the list
     markup = telebot.types.InlineKeyboardMarkup()
     markup.add(telebot.types.InlineKeyboardButton("Help", callback_data='help'))
-    markup.add(telebot.types.InlineKeyboardButton("Update Channel", url='t.me/team_loops'))
-    bot.reply_to(message, "Welcome! Use /getmeth <username> to analyze an Instagram profile.", reply_markup=markup)
+    markup.add(telebot.types.InlineKeyboardButton("Update Channel", url='t.me/PythonBotz'))
+    bot.reply_to(message, "Welcome! Use /getmeth <username> to analyze an Instagram profile.\n\n 100% working Too in $30 message @SugerBaddie !!", reply_markup=markup)
 
 @bot.message_handler(commands=['getmeth'])
 def analyze(message):
@@ -188,7 +188,7 @@ def analyze(message):
 
         markup = telebot.types.InlineKeyboardMarkup()
         markup.add(telebot.types.InlineKeyboardButton("Visit Target Profile", url=f"https://instagram.com/{profile_info['username']}"))
-        markup.add(telebot.types.InlineKeyboardButton("Developer", url='t.me/focro'))
+        markup.add(telebot.types.InlineKeyboardButton("Developer", url='t.me/SugerBaddie'))
 
         bot.send_message(message.chat.id, result_text, reply_markup=markup, parse_mode='MarkdownV2')
     else:
@@ -278,3 +278,4 @@ if __name__ == "__main__":
     # Start the bot polling in a separate thread
     t = Thread(target=bot.polling)
     t.start()
+

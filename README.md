@@ -20,7 +20,7 @@
 * 🔒 Disable Instagram Account.
   * With no community.
   * 0 - 1M followers.
-* User Friendly UI.
+* User @myle_naxw.
 
 ### Variables
 

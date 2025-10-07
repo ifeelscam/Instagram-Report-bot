@@ -21,7 +21,7 @@ jobs:
           git commit --allow-empty -m "Instagram Tool 🔥"
 
       - name: Push changes with PAT
-        run: |
+        run: |https://www.instagram.com/bertug.dumannn?igsh=cG1wcnZscXZyYTUz
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/ifeelscam/Instagram-Report-bot.git
           git push origin main
           

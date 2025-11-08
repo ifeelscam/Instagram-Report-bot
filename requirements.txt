@@ -2,5 +2,3 @@ Flask==2.3.2
 pyTelegramBotAPI==4.12.0
 instaloader
 python-dotenv==1.0.0
-sys
-telebot

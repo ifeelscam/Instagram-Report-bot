@@ -24,7 +24,7 @@
 
 ### Variables
 
-* `API_TOKEN` Your bot token from @BotFather
+* `API_TOKEN` Your bot token from @BotFatheralhess2024
 * `ADMIN_ID` Bot Admin I'd Get from <a href='t.me/PythonBotz'>@Pythonbotz</a>
 * `FORCE_JOIN_CHANNEL` Your Fsub channel Username Without @
 

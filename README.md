@@ -1,20 +1,63 @@
+<h1 align="center">INSTAGRAM REPORT BOT</h1>
+
 <p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
 
 <img align="right" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
     
-<h1 align="center">INSTAGRAM REPORT BOT</h1>
 
 
 
-![Stars](https://img.shields.io/github/stars/ifeelscam/Instagram-Report-bot?style=social)
-![Forks](https://img.shields.io/github/forks/ifeelscam/Instagram-Report-bot?style=social)
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<h1 align="center" style="
+color:#ff00ff;
+text-shadow:
+0 0 6px #ff00ff,
+0 0 12px #00ffff,
+0 0 18px #00ff99;">
+ 🎏 HELP & PAID TOOLS Advanced Automation 🪼
+</h1>
+
+<p align="center" style="
+color:#ffffff;
+font-size:16px;
+text-shadow:
+0 0 5px #00ffff,
+0 0 10px #8a2be2;">
+<i>Fully working <b>Windows</b> & <b>Android</b> applications with powerful <b>Python scripts</b> included.<br>
+Fast • Automated • Clean • Reliable<br><br><b><u>Premium services available on request </u></b></i>
+</p>
+
+<p align="center">
+<a href="https://t.me/metaui" target="_blank" style="
+color:#00ff99;
+font-size:18px;
+font-weight:bold;
+text-decoration:none;
+text-shadow:
+0 0 6px #00ff99,
+0 0 12px #00ff99,
+0 0 18px #00ff99;">
+<b> Contact on Telegram: @metaui</b> 
+</a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="center">REPORT ANY INSTAGRAM ACCOUNT.</p>
 
 > [!CAUTION]
 > ```This tool is created for EDUCATIONAL PURPOSES ONLY. The creator is not responsible for any damage or misuse of this tool.```
-> 
+
+
+
+ 
+
 ## Features
 
 * 🔒 Disable Instagram Account.
@@ -32,7 +75,7 @@
 
 # ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
  
-</b>⋗  ᴄʀᴇᴅɪᴛ -  <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="15px">   <b>[Trinity](https://t.me/SugerBaddie)</b> & <b>[Ben 10](https://t.me/metaui)</b>
+</b>⋗  ᴄʀᴇᴅɪᴛ -  <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="15px">   <b>[Trinity](https://t.me/Metaui)</b> & <b>[Ben 10](https://t.me/metaui)</b>
 
 </b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Python Botz](https://t.me/Pythonbotz)</b>
 

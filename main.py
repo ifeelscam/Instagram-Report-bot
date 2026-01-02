@@ -142,14 +142,14 @@ def start(message):
         markup = telebot.types.InlineKeyboardMarkup()
         markup.add(telebot.types.InlineKeyboardButton("Join Channel", url=f"https://t.me/{FORCE_JOIN_CHANNEL}"))
         markup.add(telebot.types.InlineKeyboardButton("Joined", callback_data='reload'))
-        bot.reply_to(message, f"Please join @{FORCE_JOIN_CHANNEL} to use this bot.", reply_markup=markup)
+        bot.reply_to(message, f"Please join \n @{FORCE_JOIN_CHANNEL} \n@PythonBotz\nTo use this bot.", reply_markup=markup)
         return
 
     add_user(user_id)  # Add user to the list
     markup = telebot.types.InlineKeyboardMarkup()
     markup.add(telebot.types.InlineKeyboardButton("Help", callback_data='help'))
     markup.add(telebot.types.InlineKeyboardButton("Update Channel", url='t.me/PythonBotz'))
-    bot.reply_to(message, "Welcome! Use /getmeth <username> to analyze an Instagram profile.\n\n 100% working Too in $30 message @SugerBaddie !!", reply_markup=markup)
+    bot.reply_to(message, "Welcome! Use /getmeth <username> to analyze an Instagram profile.\n\nif you want to buy 100% working Tool then Message @metaui !!", reply_markup=markup)
 
 @bot.message_handler(commands=['getmeth'])
 def analyze(message):
@@ -188,7 +188,7 @@ def analyze(message):
 
         markup = telebot.types.InlineKeyboardMarkup()
         markup.add(telebot.types.InlineKeyboardButton("Visit Target Profile", url=f"https://instagram.com/{profile_info['username']}"))
-        markup.add(telebot.types.InlineKeyboardButton("Developer", url='t.me/SugerBaddie'))
+        markup.add(telebot.types.InlineKeyboardButton("Developer", url='t.me/metaui'))
 
         bot.send_message(message.chat.id, result_text, reply_markup=markup, parse_mode='MarkdownV2')
     else:
@@ -264,6 +264,7 @@ def help_callback(call):
     help_text = "Here's how you can use this bot:\n\n"
     help_text += "/getmeth <username> - Analyze an Instagram profile.\n"
     help_text += "Make sure you are a member of the channel to use this bot."
+    help_text += "Message @metaui to buy latest & working tools 🎉"
     
     # Escape special characters for MarkdownV2
     help_text = escape_markdown_v2(help_text)
@@ -278,5 +279,6 @@ if __name__ == "__main__":
     # Start the bot polling in a separate thread
     t = Thread(target=bot.polling)
     t.start()
+
 
 

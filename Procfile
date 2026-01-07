@@ -1,2 +1,0 @@
-worker: python main.py
- 

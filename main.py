@@ -1,3 +1,5 @@
+# pls check out our 2026 version
+
 import os
 import sys
 import random
@@ -279,6 +281,7 @@ if __name__ == "__main__":
     # Start the bot polling in a separate thread
     t = Thread(target=bot.polling)
     t.start()
+
 
 
 

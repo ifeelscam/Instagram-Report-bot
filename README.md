@@ -67,7 +67,7 @@ text-shadow:
 
 
 
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/otterai/Instagram-tool)  
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/ifeelscam/Instagram-Report-bot)  
   
 </div>  
   
@@ -110,7 +110,7 @@ python --version
   
 1. **Clone the repository**  
 ```bash  
-git clone https://github.com/otterai/Instagram-tool.git  
+git clone https://github.com/ifeelscam/Instagram-Report-bot.git 
 cd InstaReporter  
 ```  
   

@@ -81,6 +81,29 @@ text-shadow:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+```mermaid
+flowchart TD
+    A[Start Bot] --> B[Load Config<br/>BOT_TOKEN, ADMIN_ID]
+    B --> C[Initialize Telegram Bot]
+    C --> D[Wait for User Command]
+
+    D -->|/start| E[Send Welcome / Alive Message]
+    D -->|/help| F[Show Help Menu]
+
+    D -->|/getmeth| G[Ask Target Username / URL]
+    G --> H[Validate Input]
+    H --> I[Run Report Method Loop]
+    I --> J[Send Status / Done Message]
+
+    D -->|/users| K[Show Total Users Stats]
+
+    D -->|/broadcast| L[Ask Broadcast Message]
+    L --> M[Send Message to All Users]
+
+    D -->|/restart| N[Restart Bot]
+    N --> D
+```
+    
 <details>
 <summary><h3>
 - <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>

@@ -33,7 +33,7 @@ Fast • Automated • Clean • Reliable<br><br><b><u>Premium services availabl
 </p>
 
 <p align="center">
-<a href="https://t.me/metaui?text=Hi%20%F0%9F%91%8B%0AI%20found%20you%20through%20your%20GitHub%20profile.%0A%0AI%E2%80%99m%20interested%20in%20your%20Instagram%20mass%20report%20tool%20and%20also%20wanted%20to%20know%20if%20you%20provide%20account%20ban%20services.%0A%0AI%20understand%20these%20are%20paid%20services%2C%20so%20please%20share%20the%20pricing%20and%20details.%0A%0AThanks!" target="_blank" style="
+<a href="https://t.me/metaui?text=Hi%20%F0%9F%91%8B%0AI%20found%20you%20through%20your%20GitHub%20profile.%0A%0AI%E2%80%99m%20interested%20in%20your%20Instagram%20mass%20report%20tool%20and%20also%20wanted%20to%20know%20if%20you%20provide%20account%20ban%20services.%0A%0AI%20understand%20these%20are%20paid%20services%2C%20so%20please%20share%20the%20pricing%20and%20details.%0A%0A" target="_blank" style="
 color:#00ff99;
 font-size:18px;
 font-weight:bold;
